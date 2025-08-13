@@ -35,7 +35,6 @@ Whether it’s our fragrant biryanis, creamy butter chicken, or freshly-baked si
 ---
 
 ## 🚀 Live Demo
-*Coming soon...*
-# Naan Stop 🍽️
+click on live link 👉 https://being-basu.github.io/restaurant-website/
 
 
