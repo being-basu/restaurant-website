@@ -29,8 +29,8 @@ Whether it’s our fragrant biryanis, creamy butter chicken, or freshly-baked si
   - Contact
 ---
 
-## 📸 Screenshot
-![Restaurant Screenshot](https://github.com/being-basu/restaurant-website/blob/main/Restaurant%20Website/images/restro%20SS.png)) <!-- Replace with your actual screenshot filename -->
+## 📸 Gif for reference
+![Restaurant gif](hhttps://github.com/being-basu/restaurant-website/blob/main/images/restaurant%20demo.gif)) 
 
 ---
 
