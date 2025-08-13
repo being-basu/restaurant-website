@@ -30,7 +30,7 @@ Whether it’s our fragrant biryanis, creamy butter chicken, or freshly-baked si
 ---
 
 ## 📸 Gif for reference
-![Restaurant gif](https://github.com/being-basu/restaurant-website/blob/main/images/restaurantdemo.gif)) 
+![Restaurant gif](https://github.com/being-basu/restaurant-website/blob/f30c89851cf89f3fde5ceb50c3551a3b7aec83d7/images/restaurant%20demo.gif) 
 
 ---
 
