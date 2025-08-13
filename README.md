@@ -1,6 +1,6 @@
 # Naan Stop 🍽️
 
-**Naan Stop** — where every bite tells a tale of India's rich culinary heritage!
+**Naan Stop** — It's a fully responsive restaurant website built using **HTML**, **CSS**, and **Bootstrap 4.5**.
 
 ## 📜 About
 Born from a passion for authentic flavors and a love for sharing the joy of Indian cuisine, Naan Stop brings the vibrant tastes of India to your table. From Delhi’s bustling streets to Kerala’s backwaters — our dishes are inspired by diverse regional kitchens.
